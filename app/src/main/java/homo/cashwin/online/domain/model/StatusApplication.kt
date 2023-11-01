@@ -2,12 +2,9 @@ package homo.cashwin.online.domain.model
 
 sealed class StatusApplication {
     object Loading: StatusApplication()
-    object Mock : StatusApplication()
+    object NoConnect : StatusApplication()
 
     class Web (
-        val url: String,
-        val offerName: String
+        val url: String
     ): StatusApplication()
-
-    object NoConnect: StatusApplication()
 }

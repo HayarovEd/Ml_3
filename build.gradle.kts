@@ -6,10 +6,11 @@ buildscript {
         classpath("com.android.tools.build:gradle:8.1.1")
         classpath ("com.huawei.agconnect:agcp:1.9.1.300")
 
+
     }
     repositories {
         mavenCentral()
-        maven ( url = "https://github.com/userxpro/userx/raw/maven/" )
+        maven ( url = "https://github.com/userxpro/userx/tree/maven" )
         maven ( url  = "https://jitpack.io" )
         maven(url = "https://developer.huawei.com/repo/")
     }

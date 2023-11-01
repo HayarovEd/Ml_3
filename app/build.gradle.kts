@@ -115,6 +115,8 @@ dependencies {
     implementation ("com.huawei.hms:hmscoreinstaller:6.7.0.300")
     implementation ("com.huawei.hms:ads-identifier:3.4.62.300")
     implementation ("com.huawei.hms:ads-installreferrer:3.4.62.300")
+
+    //implementation ("pro.userx:UserX:4.2.2")
 }
 
 

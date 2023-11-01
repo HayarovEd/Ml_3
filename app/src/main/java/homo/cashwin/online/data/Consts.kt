@@ -3,8 +3,8 @@ package homo.cashwin.online.data
 const val APP_METRICA = "7edf836d-a334-41fe-8a1a-63b02c4e5a95"
 const val MY_TRACKER = "15902682280668172344"
 const val APY_KEY = "MkKJdQC4Rq4o+0xQSSGlmffXiwDTQD2Zp/BTufB2fnRUyMpbHC1JwEtqWutA5z3iT1VWnND+y5M2lo6hjZ6575ylT0WFzV46Y09YQzAIjfkHpBqPVgUnqdo+tUt8gy1nE824ppMy2+7bELF6ZuoCMxov+7ToAI4lJKZf2LnE7QAaprcganbHwzez"
-const val USER_X = "4e23913b-42e3-47f6-a456-2618eacc2480"
-//const val APPS_FLYER = "jLNYzxQAqxAFeturo6YEAD"
+const val USER_X = "ad981c27-f90e-4d70-be23-aa9e8c99fc09"
+const val APPS_FLYER = "jLNYzxQAqxAFeturo6YEAD"
 const val URL_ANALYTICS = "https://analyticsharks.xyz"
 const val URL_SERVER = "https://mainstreamlons.info/"
 
